@@ -1,1 +1,2 @@
 DevOps is my favorite to build career.
+Adding few parameter for understanding git merge command, pull request
